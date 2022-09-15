@@ -1,0 +1,89 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+i.bi.bi-globe {
+    font-size: 35px;
+}
+
+.block {
+    display: block !important;
+    margin-top: 1%;
+}
+
+div#resposta {
+    width: 30%;
+    text-align: center;
+}
+
+form#formulario {
+    padding-top: 8em;
+}
+
+
+/*Background*/
+.bg-primary-color {
+    background-color: #fff;
+}
+
+.bg-secondary-color {
+    background-color: #ece8ea;
+}
+
+.bg-dark-color {
+    color: #050505;
+}
+
+/*Font Color*/
+.primary-color {
+    color: #050505;
+}
+
+.secondary-color {
+    color: #7a7a7a;
+}
+
+#navbar {
+    border-bottom: 1px solid #7a7a7a;
+}
+
+/*Formulário*/
+
+#formulario {
+    border-bottom: 1px solid #7a7a7a;
+    padding-bottom: 1em;
+}
+
+/*Itens do sistema*/
+.bloco {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+}
+
+.mb-3 {
+    margin-top: 1em;
+}
+
+#lista {
+    margin-top: 9em;
+}
+
+td {
+    font-size: 10px;
+}
+
+th {
+    font-size: 12px;
+}
+
+#edit {
+    margin-top: 9em;
+}
+
+span.size-form {
+    font-size: 10px;
+}
+
+input.form-control {
+    height: 2em;
+}
